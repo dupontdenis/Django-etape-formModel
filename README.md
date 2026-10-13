@@ -1,7 +1,3 @@
----
-
-#  — Projet Django *Étape 3 : ModelForm*
-
 ```markdown
 # Projet Django — Étape 3 : ModelForm
 

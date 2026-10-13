@@ -1,4 +1,4 @@
-```markdown
+
 # Projet Django — Étape 3 : ModelForm
 
 Ce dépôt correspond à **l’étape 3** du cours Django CRUD.  
